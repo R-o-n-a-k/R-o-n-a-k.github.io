@@ -1,0 +1,148 @@
+body{
+  color: #1b262c;
+  background-color: #cffffe;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+td{
+  line-height: 2;
+  color: #1b262c;;
+
+  font-family: 'Sacramento', cursive;
+}
+
+p{
+  line-height: 2;
+}
+.upper-container{
+
+  background-color:#03051e ;
+  position: relative;
+  padding-top: 100px;
+  height: 620px;
+}
+
+.middle-container{
+  margin: 50px 0;
+}
+
+h1{
+  font-size: 5.625rem;
+  color: white;
+  margin:20px auto -6px auto;
+  font-family: 'Sacramento', cursive;
+
+
+}
+
+h2{
+  color: #0f3460;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #0f3460;
+  font-family: 'Montserrat', sans-serif;
+}
+h4{
+  color: #1b262c;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.ab{
+  color: white;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+
+.m1{
+  height: 350px;
+  width: 800px;
+  position: absolute;
+  top: 370px;
+  right: 300px;
+}
+
+.top_cloud{
+  position: absolute;
+  right: 420px;
+  top: 0px;
+
+}
+.bottom_cloud{
+  position: absolute;
+  left: 400px;
+  top: 260px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+  text-align: left;
+}
+.code{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.draw{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.gamepad{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.anime{
+  height: 200px;
+  width: 300px;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 10px;
+}
+.bottom-container{
+  background-color: #00b7c2;
+  margin-top: 50px;
+  padding: 35px 0 18px;
+}
+a{
+    color: #0f3460;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 10px;
+    text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copy{
+  color: #EAf6F6;
+  font-size: 0.75rem;
+  padding-top: 20px;
+}
+.btn:hover{
+  color:#5eaaa8;
+}
+.lang:hover{
+  color: #0f3460;
+}
+.pl-h1{
+  color: #40a8c4;
+}
+.c-h1{
+  color: #40a8c4;
+}
+label{
+  color: #1b262c;;
+  font-family: 'Sacramento', cursive;
+}
